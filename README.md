@@ -25,8 +25,8 @@ I am Software Engineer, Software Developer, Technical Architect, Tech Blogger an
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" align="center" height="30px" width="40px" style="padding-right:10px;"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" align="center" height="30px" width="40px" style="padding-right:10px;"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" align="center" height="30px" width="40px" style="padding-right:10px;"  />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL " align="center" height="30px" width="40px" style="padding-right:10px;" />
 
